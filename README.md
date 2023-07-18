@@ -1,1 +1,1 @@
-Implementação de lista telefonica usando ( orientação a objetos)
+Implementação de lista telefonica ( orientação a objetos)
